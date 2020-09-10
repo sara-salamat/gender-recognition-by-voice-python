@@ -10,16 +10,16 @@ There is a short description for each part/code:
  
  ## analysis
  
- Some statiscal analysis was done on our data, like distribution of year of birth, sex and ... .
+ Some statiscal analysis was done on our data, like distribution of year of birth, sex and etc .
  
  ## extract
  
- some features were extracted from voices using this script. we used [this article](https://github.com/sunilpankaj/Gender-Recognition-by-Voice-using-python/blob/master/Gender%20Recognition%20by%20voice.ipynb) for generating features.
+ Some features were extracted from voices using this script. we used [this article](https://github.com/sunilpankaj/Gender-Recognition-by-Voice-using-python/blob/master/Gender%20Recognition%20by%20voice.ipynb) for generating features.
  
  ## gender recognition
  
- we used support vector machines for classification. our accuracy was 93.6%.
+ We used support vector machines for classification. our accuracy was 93.6%.
  
  ## clustering
  
- we clustered our data with different number of clusters.
+ We clustered our data with different number of clusters.
