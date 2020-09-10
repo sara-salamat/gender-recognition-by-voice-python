@@ -14,11 +14,11 @@ There is a short description for each part/code:
  
  ## extract
  
- Some features were extracted from voices using this script. we used [this article](https://github.com/sunilpankaj/Gender-Recognition-by-Voice-using-python/blob/master/Gender%20Recognition%20by%20voice.ipynb) for generating features.
+ Some features were extracted from voices using this script. We used [this article](https://github.com/sunilpankaj/Gender-Recognition-by-Voice-using-python/blob/master/Gender%20Recognition%20by%20voice.ipynb) for generating features.
  
  ## gender recognition
  
- We used support vector machines for classification. our accuracy was 93.6%.
+ We used support vector machines for classification. Our accuracy was 93.6%.
  
  ## clustering
  
