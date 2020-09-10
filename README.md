@@ -10,7 +10,7 @@ There is a short description for each part/code:
  
  ## analysis
  
- Some statiscal analysis was done on our data, like distribution of year of birth, sex and etc .
+ Some statiscal analysis was done on our data, like distribution of year of birth, sex and etc. .
  
  ## extract
  
